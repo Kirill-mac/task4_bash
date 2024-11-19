@@ -40,11 +40,3 @@ EOL
 
 ссылка на скриншот исполнения в задаче
 (https://cloud.mail.ru/public/r5pM/LLuCQJpZY)
-
-
-
-
-
-ссылка на скриншот исполнения в задаче
-(https://cloud.mail.ru/public/r5pM/LLuCQJpZY)
-!!!
