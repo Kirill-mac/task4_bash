@@ -39,4 +39,4 @@ EOL
 
 
 
-![скриншот исполнения файла](https://cloud.mail.ru/public/r5pM/LLuCQJpZY)
+(https://cloud.mail.ru/public/r5pM/LLuCQJpZY)
